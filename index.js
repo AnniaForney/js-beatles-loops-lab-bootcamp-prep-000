@@ -2,4 +2,4 @@ function theBeatlesPlay(musicians,instruments) {
   const array = [];
 }
 
-for (let i = 0)
+for (let i = 0, musicians)
